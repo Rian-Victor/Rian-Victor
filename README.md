@@ -1,4 +1,4 @@
-## Hello! I'm Rian Victor and welcome to my GitHub👋🏾
+### Hello! I'm Rian Victor and welcome to my GitHub👋🏾
 - Computer Science student at UFBA.
 - Contact me here: **rianvictorribeiro@/gmail.com**
 
